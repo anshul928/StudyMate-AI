@@ -1,0 +1,8 @@
+openai
+streamlit
+python-dotenv
+google-genai
+pypdf
+reportlab
+fpdf2
+uharfbuzz
